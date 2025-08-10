@@ -12,7 +12,7 @@ public class myfile {
         System.out.println("  - AWS CodeDeploy: Automates code deployments.");
         System.out.println("  - AWS CodePipeline: Automates CI/CD workflows.");
         System.out.println("  - Amazon Elastic Container Service (ECS) & EKS: Container orchestration.");
-        System.out.println("  - AWS CloudFormation: Infrastructure as Code (IaC).");
+        System.out.println("  - AWS CloudFormation : Infrastructure as Code (IaC).");
         System.out.println();
         System.out.println("Benefits:");
         System.out.println("  - Faster delivery of features and updates.");
