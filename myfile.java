@@ -11,7 +11,7 @@ public class myfile {
         System.out.println("  - AWS CodeBuild: Builds and tests code automatically.");
         System.out.println("  - AWS CodeDeploy: Automates code deployments.");
         System.out.println("  - AWS CodePipeline: Automates CI/CD workflows.");
-        System.out.println("  - Amazon Elastic Container Service (ECS) & EKS: Container orchestration.");
+        System.out.println("  - Amazon Elastic  Container Service (ECS) & EKS: Container orchestration.");
         System.out.println("  - AWS CloudFormation : Infrastructure as Code (IaC).");
         System.out.println();
         System.out.println("Benefits:");
