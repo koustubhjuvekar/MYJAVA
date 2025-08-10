@@ -1,4 +1,4 @@
-public class myFile {
+public class myfile {
     public static void main(String[] args) {
         System.out.println("AWS DevOps Information");
         System.out.println("----------------------");
